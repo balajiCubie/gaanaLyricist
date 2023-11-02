@@ -3,7 +3,9 @@
 export default function Home() {
   return (
     <>
-    <h1>own by cuvisoft</h1>
+    <div className="center">
+    <h1 className="center1">Own By Cuvisoft</h1>
+    </div>
     </>
 
     
